@@ -42,6 +42,29 @@ Use Cases is a visual representation of the interaction between the user and the
 - Help in organizing and identifying the system requirements.
 - Facilitate communication between stakeholders and the team.
 
+### Example: Airbnb Clone – Booking Management System
+
+Below is the Use Case Diagram showing the main actors and their interactions with the system.
+
+**Actors:**
+- Guest  
+- Host  
+- Admin  
+
+**Main Use Cases:**
+- Register/Login  
+- Search for property  
+- View property details  
+- Book property  
+- Make payment  
+- Manage listings  
+- Approve/Reject bookings  
+- Checkout  
+
+### Diagram:
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
+
+
 ## Acceptance Criteria
 
 ### Importance of Acceptnace Criteria 
