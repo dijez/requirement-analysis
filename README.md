@@ -63,8 +63,7 @@ Below is the Use Case Diagram showing the main actors and their interactions wit
 - Checkout  
 
 ### Diagram:
-Use Case Diagram for Booking System 
-(https://github.com/user-attachments/assets/3de93f5a-e5cd-42e7-85a7-b9c8fb044d7b)
+![Use Case Diagram for Booking System](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 
