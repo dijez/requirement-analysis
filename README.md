@@ -24,11 +24,32 @@ Requirement analysis is a critical phase in SDLC where the project team gathers,
 ## Types of Requirements
 ### Functional Requirements
 This describes what the system should do. 
-- search property
+- Search property
 - Booking property
 - Payment property
-- Notification property  
+- Notification property
+- Checkout property
 ### Non-Functional Requirements 
 This describes how the system should perform.
 - Reliability
-- Scalability 
+- Scalability
+
+## Usr Case Diagrams.
+Use Cases is a visual representation of the interaction between the user and the system to achieve a goal.
+
+### Benefits of Use Case Diagrams
+- Provide a clear visual representation of the system interations
+- Help in organizing and identifying the system requirements.
+- Facilitate communication between stakeholders and the team.
+
+## Acceptance Criteria
+
+### Importance of Acceptnace Criteria 
+Acceptnace Criteria  is important because it provides a condition that a feature must meet to be accepted by the stakeholders.
+
+### Acceptance Criteria (Booking management system)
+- Successful booking confirmation
+- Payment processing
+- Payment validation
+- Booking confirmation notification
+- Double booking prevention
