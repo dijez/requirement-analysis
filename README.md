@@ -13,3 +13,10 @@ Requirement analysis is a critical phase in SDLC where the project team gathers,
 - Basis of design and development
 - Cost and time estimate
 - Quality assurance 
+
+## Key Activities in Requirement Analysis.
+- Requirement Gathering : engage with stakeholders to collect initial requirement 
+- Requirement Elicitation: refine and elaborate on the gathered requirement
+- Requirement Documentation: document the requirements in a detailed and structured format
+- Requirement Analysis and Modeling: analyze and priotize the requirement  
+- Requirement Validation: review and vaidate the requirements with stakeholders 
