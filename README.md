@@ -20,3 +20,15 @@ Requirement analysis is a critical phase in SDLC where the project team gathers,
 - Requirement Documentation: document the requirements in a detailed and structured format
 - Requirement Analysis and Modeling: analyze and priotize the requirement  
 - Requirement Validation: review and vaidate the requirements with stakeholders 
+
+## Types of Requirements
+### Functional Requirements
+This describes what the system should do. 
+- search property
+- Booking property
+- Payment property
+- Notification property  
+### Non-Functional Requirements 
+This describes how the system should perform.
+- Reliability
+- Scalability 
