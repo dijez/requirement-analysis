@@ -64,7 +64,6 @@ Below is the Use Case Diagram showing the main actors and their interactions wit
 
 ### Diagram:
 ![Use Case Diagram for Booking System](./alx-booking-uc.png)
-![Use Case Diagram for Booking System](./alx-booking-uc.png)
 
 ## Acceptance Criteria
 
